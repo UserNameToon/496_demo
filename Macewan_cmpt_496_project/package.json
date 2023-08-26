@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-native": "^0.72.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0",
+    "eslint-plugin-react": "^7.33.2"
+  }
+}
